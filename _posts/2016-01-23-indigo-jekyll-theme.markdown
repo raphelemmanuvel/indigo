@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Unsupervised Learning for SMS Spam Detection"
+title: "Unsupervised Learning for SMS Spam Detection"
 layout: post
 date: 2017-03-30 22:10
 tag: machine_learning
