@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-local: true
-resume: assets/resume/resume.pdf
+resume-external: false
+resume-url: assets/resume/resume.pdf
 
 url: https://raphelemmanuvel.github.io
 # your url: http://USERNAME.github.io
@@ -35,15 +35,15 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: https://twitter.com/rafa_emmanuvel
+twitter: rafa_emmanuvel
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://linkedin.com/in/raphelemmanuvel
-kaggle: https://www.kaggle.com/emmanuvelraphel
+linkedin: raphelemmanuvel
+kaggle: emmanuvelraphel
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/raphelemmanuvel
+github: raphelemmanuvel
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
