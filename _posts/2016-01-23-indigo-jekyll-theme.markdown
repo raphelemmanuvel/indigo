@@ -4,12 +4,12 @@ layout: post
 date: 2017-03-30 22:10
 tag: machine_learning
 image: 
-headerImage: false
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Machine Learning project using Python libraries to cluster a data set of 'sms' messages into 'spam' and 'ham' using k-means clustering."
 category: project
-author: emmanuvel
+author: emmanuvelraphel
 externalLink: false
 ---
 

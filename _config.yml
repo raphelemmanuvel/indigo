@@ -53,7 +53,13 @@ github: raphelemmanuvel
 # lanyrd: mylanyrd
 email: raphelemmanuvel@gmail.com
 
-
+authors:
+    emmanuvelraphel:
+        name: Emmanuvel Raphel
+        bio: A Man who travels the world eating noodles
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: rafa_emmanuvel
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
