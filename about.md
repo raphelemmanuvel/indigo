@@ -6,7 +6,7 @@ layout: page
 
 <p>Data Researcher and former Software Develoepr offering an insatiable intellectual curiosity and passion for turning raw data into products, actionable insights, and meaningful stories. Inspired by open data initiatives, artificial intelligence and data science.</p>
 
-<h2>Skills</h2>
+<h2>Technical Expertise</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
