@@ -9,19 +9,25 @@ layout: page
 <h2>Technical Expertise</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Machine Learning(Clustering, Classification, Feature Engineering)</li>
+	<li>Python(NumPy, scikit-learn, pandas, nltk)
+	<li>Ruby(Mechanize, Nokogiri)</li>
+	<li>Java | Spring MVC Framework</li>
+	<li>Web Scraping</li>
+	<li>Selenium Web-driver</li>
+	<li>Docker</li>
+	<li>JSON/ XML</li>
+	<li>RESTful Web-Services</li>
+	<li>Node.js</li>
+	<li>MEAN Stack</li>
+	<li>HTML 5.0 | CSS3 | Javascript | jQuery</li>
+	<li>Angular JS</li>
+	<li>MySQL | MongoDB | mLab | Oracle Database 10g</li>
+	<li>AWS S3 | Google CLoud Storage</li>
+	<li>Bitbucket | GitHub</li>
+	<li>Heroku</li>
+	<li>Tableu</li>
+	<li>OpenRefine</li>
+	<li>Atom | Eclipse | Sublime Text | PyCharm</li>
 </ul>
 
