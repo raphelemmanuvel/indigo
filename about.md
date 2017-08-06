@@ -28,7 +28,6 @@ layout: page
 	<li>Heroku</li>
 	<li>Tableu</li>
 	<li>OpenRefine</li>
-	<li>Atom | Eclipse | Sublime Text | PyCharm </li>
-
-	</ul>
+	<li>Atom | Eclipse | Sublime Text | PyCharm</li>
+</ul>
 
