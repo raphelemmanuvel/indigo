@@ -3,7 +3,7 @@ name: Emmanuvel Raphel
 bio: Data Developer    
 
 # twitter summary info
-description: Passionate about Data-Science | Open Data | Big Data | Artificial Intelligence
+description: "Passionate about Data-Science | Open Data | Big Data | Artificial Intelligence"
 
 # if it's an external image, update below for true
 # better with square images
@@ -39,8 +39,8 @@ twitter: https://twitter.com/rafa_emmanuvel
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: https://linkedin.com/in/raphelemmanuvel
- kaggle : https://www.kaggle.com/emmanuvelraphel
+linkedin: https://linkedin.com/in/raphelemmanuvel
+kaggle: https://www.kaggle.com/emmanuvelraphel
 # youtube: myyoutube
 # spotify: myspotify
 github: https://github.com/raphelemmanuvel
